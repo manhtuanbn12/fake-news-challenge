@@ -1,5 +1,6 @@
 # fake-news-challenge 
 # This is my first project to learn Data Science 
+This project is about Fake News Detection.
 I use the data and materials from this competition site: http://www.fakenewschallenge.org/ 
 
 
