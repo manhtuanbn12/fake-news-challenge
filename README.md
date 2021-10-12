@@ -13,6 +13,8 @@ The purpose of the project is to try to train and predict the category of a piec
 # Data:
 * File train_stances.csv has the information of stances for train data
 * File train_bodies.csv maps bodyID with body content
-* File test_stances.csv and test_bodies.csv has the same information for the test data
-I do some data cleaning, feature extraction using tf-idf and experiment with some common classification algorithms.
+* File test_stances.csv and test_bodies.csv has the same information for the test data.
+
+
+I did some data cleaning, feature extraction using tf-idf and experiment with some common classification algorithms.
 
